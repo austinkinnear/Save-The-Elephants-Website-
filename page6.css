@@ -1,0 +1,204 @@
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  
+}
+
+header {
+  padding: 60px;
+  text-align: center;
+ 
+  color: black;
+  
+  background-image:url(/finalproject/final-photos/elephant-1188444.jpg);
+    
+      width:100%;
+}
+
+
+.links {
+  display: flex;
+  background-color: #333;
+}
+
+
+.links a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+
+.links a:hover {
+  background-color: #F88B8D;
+  color: black;
+}
+
+h2{
+    text-align:center;
+}
+
+h1{
+    font-size:3rem;
+}
+
+@media screen and (max-width: 700px) {
+  .main, .links {   
+    flex-direction: column;
+  }
+
+.links {
+  display: flex;
+  background-color: #333;
+}
+
+
+.links a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+
+.links a:hover {
+  background-color: #F88B8D;
+  color: black;
+}
+
+}
+
+
+@media (min-width: 700px){
+
+
+
+.links {
+  display: flex;
+  background-color: #333;
+}
+
+
+.links a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+
+.links a:hover {
+  background-color: #F88B8D;
+  color: black;
+}
+
+
+    
+}
+
+
+label{
+    margin:10px;
+    
+}
+
+input{
+    margin:10px;
+    
+    border:1px solid #F0FF58;
+}
+
+select{
+    margin:10px;
+}
+
+
+	.flexparent{
+		display:flex;
+		flex-direction:column;
+		width:80%;
+		margin:20px auto;
+		border:5px solid black;
+		}
+.flexparent * {
+margin-bottom: 20px;
+}
+.flexparent label {
+margin-bottom:0px;
+}
+
+
+[type=submit]:hover{
+background-color:grey;
+}
+
+@media (max-width: 600px){
+    h1{
+        text-align:center;
+    }
+    
+    .flexparent{
+        display:flex;
+        width:100%;
+        
+        background-color:#cecfce;
+    }
+    
+    [type=submit]{
+background-color: #8b8787;
+}
+}
+
+@media (min-width: 600px){
+    
+   .flexparent{
+       
+    display:flex;
+width:100%;
+height:fit-content;
+background-color: #cecfce;
+
+
+   } 
+   
+   [type=submit]{
+background-color: #8b8787;
+}
+    
+}
+
+@media (min-width: 800px){
+    .flexparent{
+        display:flex;
+        width:100%;
+        height:fit-content;
+        
+       background-color: #cecfce;
+    }
+    
+    [type=submit]{
+background-color: #8b8787;
+}
+}
+
+
+.k{
+    
+    color:black;
+    font-weight:bold;
+    margin:30px;
+    padding:20px;
+}
+
+p{
+    background-color:#CFFFF6;
+    margin:30px;
+    padding:20px;
+}

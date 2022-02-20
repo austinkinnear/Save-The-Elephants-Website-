@@ -1,0 +1,72 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8">
+	<title>SaveTheElephants</title>
+	
+	<link rel="stylesheet" href="/finalproject/final-css/page1.css">
+     <link rel="icon" href="/finalproject/final-photos/elephant-side.png" type="image/png">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Austin Kinnear">
+	<meta name="description" content="The Final Project for IT 240">
+	
+	
+</head>
+<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.992.0">
+    
+<header>
+<h1>Save The Elephants</h1>
+</header>
+
+
+
+<nav class="links">
+    
+    <a href="https://www.savetheelephants.org/">External Page</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page1.html">Organization</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page2.html">My Contrabutions</a>
+ <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page3.html">The Expierence</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page4.html">Saving The Elephants</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page5.html">Partners</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page6.html">Request</a>
+</nav>
+
+
+<main class="main">
+  <div class="edge">
+    <h2>Why Save The Elphants?</h2>
+    <h5>Photo</h5>
+    <div class="img1"><img src="/finalproject/final-photos/elephant-1563314.jpg" alt="President john s. k. kauwe iii of BYU Hawaii">
+    </div>
+    <p class="para2">Elephants are Africas natural guardeners, where every they go they plant seeds, create habitats and are landscape engeneers. Elephants could be exstinct within one genration. Between the years of 2010 and 2012 over 100,000 elephants were killed for their ivory.</p>
+   
+   
+   
+    <h2> Their Mission</h2>
+    
+    <p>"Our mission is to secure a future for elephants and to sustain the beauty and ecological integrity of the places they live; to promote man’s delight in their intelligence and the diversity of their world, and to develop a tolerant relationship between the two species."</p>
+  </div>
+  <aside class="aside">
+    <h2>What They Do</h2>
+    
+    <div class="img2"><img src="/finalproject/final-photos/elephant-1567305.jpg" alt="Brigham Young University Hawaii">
+    </div>
+<h5> Reasearch and Monitoring</h5>
+    <p class="para"> They research elephants behavior and ecology and pioneer GPS tracking. They provide new information of elephants and after 20 years of monitoring elepahnts in Samburu. They also monitor the illegal killing of elephants. Their scientific data has helped shift international policy towards a better future for elephants. </p>
+
+<h5>Elephant Protection</h5>
+
+<p>They work with wildlife department, communities and protected area managers to assist in defending elephants against ivory poachers. Their cutting edge tracking systems helpe monitor and protect elephants. They have an <b>Elephant Crisis Fund </b>which supports 83 partners in the implementation of over 300 different projects in 40 different countires.</p>
+
+   
+  </aside>
+</main>
+
+
+
+<footer>
+
+</footer>
+<grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></body>
+</html>

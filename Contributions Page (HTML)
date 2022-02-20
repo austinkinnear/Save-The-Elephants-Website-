@@ -1,0 +1,72 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8">
+	<title>SaveTheElephants</title>
+	
+	<link rel="stylesheet" href="/finalproject/final-css/page2.css">
+	<link rel="stylesheet" href="/finalproject/final-css/page1.css">
+     <link rel="icon" href="/finalproject/final-photos/elephant-side.png" type="image/png">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Austin Kinnear">
+	<meta name="description" content="The Final Project for IT 240">
+	
+	
+</head>
+<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.992.0">
+    
+<header>
+<h1>Save The Elephants</h1>
+</header>
+
+
+
+<nav class="links">
+    <a href="https://www.savetheelephants.org/">External Page</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page1.html">Organization</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page2.html"> My Contrabutions</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page3.html">The Expierence</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page4.html">Saving The Elephants</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page5.html">Partners</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page6.html">Request</a>
+</nav>
+
+
+<main class="main">
+  <div class="edge">
+    <h2>My Contrabution</h2>
+    <h5></h5>
+    <div class="img1"><img src="/finalproject/final-photos/elephant-3-1362034.jpg" alt="Elephant">
+    </div>
+    <p class="para2">Because I am not majoring in zoology, enviromental science, bioloical sciences or geography. So I can not intern, but I could help them with their website if I got alot better at web design. I would love to help take care of elephants, I have dogs so I know how to feed aanimals. I have taken care of horses, pigs and chickens. I am very organized so I could help organzie. I was a trainig leader at work so I know how to help grow companies.</p>
+   
+   
+  
+  </div>
+  <aside class="aside">
+    <h2>Ways To Contribute</h2>
+  <h5>Donate</h5>  
+    <div class="img2"><img src="/finalproject/final-photos/chart.png" alt="Finacial data">
+    </div>
+<p> This is how your money will be spent if you donate to Save the Elephants.</p>
+
+    
+
+<h5>Internship</h5>
+
+<p>They accept a small amount of studnets, preferibley studying in zoology, enviromental sciences, biological sciences or geography. They are looking for students, graduates, career breaks of people looking to do PHD reaseach.<b>They will not accept veternary students</b> </p>
+
+  <h5>Careers</h5>
+  
+  <p>They currently do not have any vacineces so they are not hiring.</p>
+  </aside>
+</main>
+
+
+
+<footer>
+
+</footer>
+<grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></body>
+</html>

@@ -1,0 +1,65 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8">
+	<title>SaveTheElephants</title>
+	
+	<link rel="stylesheet" href="/finalproject/final-css/page6.css">
+	
+     <link rel="icon" href="/finalproject/final-photos/elephant-side.png" type="image/png">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Austin Kinnear">
+	<meta name="description" content="The Final Project for IT 240">
+	
+	
+</head>
+<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.992.0">
+    
+<header>
+<h1>Save The Elephants</h1>
+</header>
+
+
+
+<nav class="links">
+    <a href="https://www.savetheelephants.org/">External Page</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page1.html">Organization</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page2.html"> My Contrabutions</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page3.html">The Expierence</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page4.html">Saving The Elephants</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page5.html">Partners</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page6.html">Request</a>
+</nav>
+
+
+<main class="main">
+    <h2>Comment/Request Form</h2>
+<form action="page6.php" method="get">
+<div class="flexparent">
+
+	<label> First Name </label>
+	<input type="text" name="firstname" placeholder="name" >
+	
+	<label> Last Name </label>
+	<input type="text" name="lastname" placeholder="name" >
+	
+	<label>Email</label>
+	<input type="email" placeholder="davesmith@go.byuh.edu" name="email">
+
+    <label>Comment/Request</label>
+    <input type="text" name="text" placeholder="Comment...">
+
+	<input type="submit" value="Submit">
+	
+	</div>
+</form>
+</main>
+
+
+
+<footer>
+
+</footer>
+<grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></body>
+</html>

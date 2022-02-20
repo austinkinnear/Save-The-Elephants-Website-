@@ -1,0 +1,66 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8">
+	<title>SaveTheElephants</title>
+	
+	<link rel="stylesheet" href="/finalproject/final-css/page3.css">
+	<link rel="stylesheet" href="/finalproject/final-css/page1.css">
+     <link rel="icon" href="/finalproject/final-photos/elephant-side.png" type="image/png">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Austin Kinnear">
+	<meta name="description" content="The Final Project for IT 240">
+	
+	
+</head>
+<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.992.0">
+    
+<header>
+<h1>Save The Elephants</h1>
+</header>
+
+
+
+<nav class="links">
+    <a href="https://www.savetheelephants.org/">External Page</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page1.html">Organization</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page2.html"> My Contrabutions</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page3.html">The Expierence</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page4.html">Saving The Elephants</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page5.html">Partners</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page6.html">Request</a>
+</nav>
+
+
+<main class="main">
+  <div class="edge">
+    
+    <h5></h5>
+    <div class="img1"><img src="/finalproject/final-photos/city.jpg" alt="The city of Nairobi">
+    </div>
+    <h2>Where I could work</h2>
+    <p class="para2">There are multiple positions I could work. The easiest being virtual monitoring. This would involve me tracking and research elephants. I could also intern for Save the Elephants. </p>
+    <p> I could also help along side protected area managers and help agasint ivory poachers. I could also help agsint Ivory poacher</p>
+   
+   
+  
+  </div>
+  <aside class="aside">
+    <h2>Where I would live</h2>
+    
+    <div class="img2"><img src="/finalproject/final-photos/laying.jpg" alt="helping elephants">
+    </div>
+<p> If I were virtually monitoring elephants and helping researchers, I could technicahly be anywhere. Although Save the Elephants, is located in Nairobi. I would most likely be located in Nairobi, Africa.I have never lived in Kenya, and I have never been. Nairobi's name came from the river and come from a fraise meaning cool water. It is the largest city in Kenya. </p>
+
+    
+  </aside>
+</main>
+
+
+
+<footer>
+
+</footer>
+<grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></body>
+</html>

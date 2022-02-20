@@ -1,0 +1,84 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8">
+	<title>SaveTheElephants</title>
+	
+	
+	
+	<link rel="stylesheet" href="/finalproject/final-css/page5.css">
+     <link rel="icon" href="/finalproject/final-photos/elephant-side.png" type="image/png">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Austin Kinnear">
+	<meta name="description" content="The Final Project for IT 240">
+	
+	
+</head>
+<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.992.0">
+    
+<header>
+<h1>Save The Elephants</h1>
+</header>
+
+
+
+<nav class="links">
+    <a href="https://www.savetheelephants.org/">External Page</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page1.html">Organization</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page2.html"> My Contrabutions</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page3.html">The Expierence</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page4.html">Saving The Elephants</a>
+ <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page5.html">Partners</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page6.html">Request</a>
+</nav>
+
+
+
+<main class="main">
+  <div class="edge">
+    
+   <ul style="list-style-type:disc">
+       
+     <li>Kenya Wildlife Service</li>
+     <li>Kenya Wildlife Service wants to save the last great species and placeson earth.</li>
+    
+    <li> International Fund for Animal Welfare</li>
+    <li>International Fund for Animal Welfare strives to help animals and people live together in harmony. They rescue, rehabilitate, release, secure and repeat.</li>
+   
+   <li>Mara Elephant Project</li>
+    <li>Mara Elephant Project wants to have a stable elephant population that lives peacefully with humans.</li>
+    
+    <li>Frankfurt Zoological Society</li>
+    <li>Frankfurt Zoological Society protects wildlife and wilderness.</li>
+   
+    <li>Fauna & Flora International</li>
+    <li>Fauna & Flora International is the oldest international wildlife organization. Their focus is protecting biodiversity</li>
+   
+    <li>Game Rangers International</li>
+    <li>Game Rangers International is located in Zambia and wants to protect resources, teach the community and rescue wildlife. They mainly work with elephants in rescuing, rehabilitating and releasing them back to the wild.</li>
+    
+    
+</ul>
+   
+  
+  </div>
+  <aside class="aside">
+  
+    <img src="/finalproject/final-photos/FFI.jpg" alt="Fauna & Flora International">
+    <img src="/finalproject/final-photos/FZS.jpg" alt="Frankfurt Zoological Society">
+    <img src="/finalproject/final-photos/Game-Rangers-Int.jpg" alt="Game Ranger Intenational">
+    <img src="/finalproject/final-photos/IFAW-LOGO.jpg" alt="International Fund for Animal Welfare">
+    <img src="/finalproject/final-photos/KWS_LOGO.jpg" alt="Kenya Wildlife Service">
+    
+    <img src="/finalproject/final-photos/MEP-logo-2.gif" alt="Mara Elephant Project">
+   
+  </aside>
+</main>
+
+
+<footer>
+
+</footer>
+<grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></body>
+</html>

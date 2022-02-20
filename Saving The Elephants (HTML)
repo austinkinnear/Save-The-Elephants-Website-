@@ -1,0 +1,67 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8">
+	<title>SaveTheElephants</title>
+	
+	<link rel="stylesheet" href="/finalproject/final-css/page4.css">
+	<link rel="stylesheet" href="/finalproject/final-css/page1.css">
+     <link rel="icon" href="/finalproject/final-photos/elephant-side.png" type="image/png">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Austin Kinnear">
+	<meta name="description" content="The Final Project for IT 240">
+	
+	
+</head>
+<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.992.0">
+    
+<header>
+<h1>Save The Elephants</h1>
+</header>
+
+
+
+<nav class="links">
+    <a href="https://www.savetheelephants.org/">External Page</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page1.html">Organization</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page2.html"> My Contrabutions</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page3.html">The Expierence</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page4.html">Saving The Elephants</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page5.html">Partners</a>
+  <a href="https://c0088.is3.aws.cis.byuh.edu/finalproject/page6.html">Request</a>
+</nav>
+
+
+<main class="main">
+   
+  <div class="edge">
+     
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/4YkCGCakcSU" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+   
+  
+  </div>
+
+  <aside class="aside">
+    <h2>Helping The Elephants</h2>
+  
+    
+    
+    
+<p> While working with Save the Elephants, I would be helping African Elephants in Kenya. They are one of the smartest animals on the planet, with very similar emotional intelegence as humans. Elephants are key for the ecosystem In Africa. African elephants will use their tusk during dry season to dig hole and find water. Elephants poop has mant seeds in it, and the combination helps plants trhive. Helping save the elephants, not only helps my favorite animal, but helps the savanah enviroment.  </p>
+
+<h5>Threats to Elephants</h5>
+<p>Elephants main threat are the ivory trade and habitat loss. The ivory trade is the most affecting influence on Elephants. Between 2010 and 2012 scientist belive 100,000 elephants were killed for their ivory. There are only about 500,000 elephants in Africa. The habitat loss is so detrimental for elephants becuase of Humans encrouching on the land they need to propsper. With human development, we cut elephants passage towards water or food they might need. Overgrazing menas their is less grass for wildlife or cattle. THis leads to soil erosion which leads to the land being harmed nad unable to grow grass as it did.</p>
+
+
+  </aside>
+</main>
+
+
+
+<footer>
+
+</footer>
+<grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></body>
+</html>
